@@ -1,0 +1,72 @@
+.Projects {
+  width: 100%;
+  height: 100%;
+}
+
+.Projects-h1 {
+  text-align: center;
+  background-color: black;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  padding: 0.5%;
+  color: white;
+}
+
+.cardfont {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: var(--ft-small);
+  font-weight: 200;
+}
+
+.content {
+  display: flex;
+  justify-content: space-around;
+  padding: 2%;
+
+}
+
+.img1 {
+  border-radius: 1%;
+
+}
+
+.card1 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
+  transition: 0.3s;
+  width: 25%;
+  height: 20%;
+  border-radius: 1%;
+  cursor: pointer;
+
+}
+
+.card2 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
+  transition: 0.3s;
+  border-radius: 1%;
+  cursor: pointer;
+  width: 25%;
+  height: 20%;
+
+
+}
+
+.card1:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.card2:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.container {
+  padding: 2px 16px;
+
+}
+
+.container2 {
+  padding: 2px 16px;
+
+
+}

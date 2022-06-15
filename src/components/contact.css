@@ -1,0 +1,43 @@
+.contact {
+    height: 100%;
+    width: 100%;
+}
+
+.contact_h1 {
+    padding-left: 10%;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+        "Lucida Sans", Arial, sans-serif;
+}
+
+.gmail {
+    display: flex;
+    background-color: #222;
+    width: 300px;
+    padding: 10px 20px;
+    border-radius: 50px;
+    justify-content: space-evenly;
+}
+
+.email {
+    color: white;
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+
+.cvbutton {
+    font-size: 20px;
+    box-sizing: border-box;
+    border: 2px solid black;
+    width: 250px;
+    height: 60px;
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 50px;
+
+}
+
+.download-logo {
+    height: 50px;
+}

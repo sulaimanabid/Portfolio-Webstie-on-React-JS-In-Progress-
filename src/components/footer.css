@@ -1,0 +1,14 @@
+.footer {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  padding: 1%;
+}
+
+.footer>div {
+  padding: 1vh;
+}
+
+.icons {
+  height: 80px;
+}
