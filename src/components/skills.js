@@ -14,7 +14,7 @@ function skills() {
           animate={{ scale: 1 }}
           whileInView={{ opacity: 1 }}
           viewport={{ once: true }}
-          transition={{ duration: 7, type: "spring" }}
+          transition={{ duration: 9, type: "spring" }}
         >
           <h1> Languages and Technologies</h1>
         </motion.div>
@@ -28,7 +28,7 @@ function skills() {
             animate={{ scale: 1 }}
             whileInView={{ opacity: 1 }}
             viewport={{ once: true }}
-            transition={{ duration: 4, type: "spring" }}
+            transition={{ duration: 6, type: "spring" }}
           >
             <div className="technologies">
               <br></br>
@@ -45,7 +45,7 @@ function skills() {
             animate={{ scale: 1 }}
             whileInView={{ opacity: 1 }}
             viewport={{ once: true }}
-            transition={{ duration: 6, type: "spring" }}
+            transition={{ duration: 10, type: "spring" }}
           >
             <div className="familiar">
               <br></br>
@@ -61,7 +61,7 @@ function skills() {
             animate={{ scale: 1 }}
             whileInView={{ opacity: 1 }}
             viewport={{ once: true }}
-            transition={{ duration: 8, type: "spring" }}
+            transition={{ duration:14, type: "spring" }}
           >
             <div className="last_row">
               <p className="para">Styled Components</p>

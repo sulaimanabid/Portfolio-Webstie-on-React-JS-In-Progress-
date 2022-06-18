@@ -13,7 +13,7 @@ function Projects() {
           animate={{ scale: 1 }}
           whileInView={{ opacity: 1 }}
           viewport={{ once: true }}
-          transition={{ duration: 7, type: "spring" }}
+          transition={{ duration: 9, type: "spring" }}
         >
           <h1>Some of the Projects I've Worked On</h1>
         </motion.div>
