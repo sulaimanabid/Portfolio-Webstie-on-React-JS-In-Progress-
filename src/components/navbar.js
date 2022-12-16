@@ -17,13 +17,13 @@ function Navbar() {
       <div className="list">
         <ul>
           <li>
-            <a className="link" href="./homepage">
+            <a className="link" href="./">
               Projects
             </a>
           </li>
 
           <li>
-            <a className="link" href="./skills">
+            <a className="link" href="./">
               Languages and Technologies
             </a>
           </li>
