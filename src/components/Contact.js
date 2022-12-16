@@ -3,7 +3,8 @@ import { motion } from "framer-motion/dist/framer-motion";
 import "../components/contact.css";
 import gmail from "../img/gmail.png";
 import download from "../img/download.gif";
-import pdf from "../pdf/cv.pdf";
+import pdf from "../pdf/sulaimanabid.pdf";
+
 
 function Contact() {
   return (
