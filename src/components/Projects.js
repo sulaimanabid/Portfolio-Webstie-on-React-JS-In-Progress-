@@ -43,7 +43,7 @@ function Projects() {
           />
           <div class="container2">
             <h4>
-              <b>Opportunist Web App (Coming Soon)</b>
+              <b>Opportunist Web App</b>
             </h4>
             <p className="cardfont">Tools: React, NodeJS, MongoDB, ExpressJS</p>
           </div>
