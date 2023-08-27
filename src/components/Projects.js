@@ -39,7 +39,7 @@ function Projects() {
             className="img1"
             src={opp}
             alt="card2"
-            style={{ width: "100%" }}
+            style={{ width: "100%", height: "70vh" }}
           />
           <div class="container2">
             <h4>
