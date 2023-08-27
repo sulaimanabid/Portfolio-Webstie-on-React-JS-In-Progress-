@@ -42,12 +42,12 @@
 }
 
 .card2 {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
+ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
   transition: 0.3s;
+  width: 25%;
+  height: 20%;
   border-radius: 1%;
   cursor: pointer;
-  width: 25%;
-  height: 5px
 
 
 }
