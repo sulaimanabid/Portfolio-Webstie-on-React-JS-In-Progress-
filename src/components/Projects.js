@@ -34,7 +34,7 @@ function Projects() {
           </div>
         </div>
 
-        <div class="card2">
+        <div class="card1">
           <img
             className="img1"
             src={opp}
