@@ -19,7 +19,7 @@ function Projects() {
         </motion.div>
       </div>
       <div className="content">
-        <div class="card1">
+        <div>
           <img
             className="img1"
             src={homescreen}
